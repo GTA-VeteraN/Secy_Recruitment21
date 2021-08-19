@@ -45,7 +45,7 @@ SMALL
 
 ### __Explanation__
 
-![Capture](Capture.jpg)
+![Capture](Images/Capture.jpg)
 <br/><br/>
 This is the plot for the rectangle painted by the painter, so here we can see that all the `di's` are same therefore we got same enlargement in all sides. We can calculate the area of the rectangle and find the answer. 
 
