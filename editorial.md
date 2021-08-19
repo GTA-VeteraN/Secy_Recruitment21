@@ -1,6 +1,6 @@
 # Explanation
 
-![capture](image.jpeg)
+![capture](Images/image.jpeg)
 
 
 
