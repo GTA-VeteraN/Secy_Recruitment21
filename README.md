@@ -1,2 +1,2 @@
 # Secy_Recruitment21
-This is a CP problem for TASk 6 - CP of the secy recruitment. 
+This contains a CP problem in accordance with the Secy Recruitment Task ( TASK 6 - CP ). 
